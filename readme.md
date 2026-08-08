@@ -180,7 +180,7 @@ The dashboard presents:
 
 ## Dashboard Preview
 
-![Amazon Sales Performance Dashboard](screenshots/dashboard.png)
+![Amazon Sales Performance Dashboard](AMAZON SALES PERFORMANCE DASHBOARD.png)
 
 ---
 
